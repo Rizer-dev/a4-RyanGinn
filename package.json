@@ -19,13 +19,13 @@
     "expense-tracker",
     "react"
   ],
-  "author": "Your Name",
+  "author": "Ryan Ginn",
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR-GITHUB-USERNAME/a3-yourfirstname-yourlastname.git"
+    "url": "https://github.com/rizer-dev/a3-ryanginn.git"
   },
-  "homepage": "https://YOUR-RENDER-APP-NAME.onrender.com",
+  "homepage": "https://a4-ryanginn.onrender.com",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "connect-mongo": "^5.1.0",
